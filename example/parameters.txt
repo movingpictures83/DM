@@ -1,0 +1,9 @@
+data_dir	charity.txt
+inputs	0,1,2,3
+outputs	4
+useGES	True
+trueInputs	0,1,2,3
+alphaPC	0.05
+verbose	True
+gesDiscount	10
+minDiscount	4 
