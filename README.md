@@ -5,7 +5,7 @@
 # Tested with: PluMA 1.1, Python 3.6
 # Dependency: pandas==1.1.5, pycausal==1.2.1
 
-PluMA plugin to run CCD (Richardson, 1996)
+PluMA plugin to run DM (Cal, 2020)
 
 Input is a TXT file of tab-delimited keyword-value pairs:
 data_dir: Input file/directory
